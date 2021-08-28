@@ -2,4 +2,4 @@
 
 Number of solutions in each category:
 
-Python: 60
+Python: 61
