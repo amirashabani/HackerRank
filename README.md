@@ -3,4 +3,4 @@
 Number of solutions in each category:
 
 Python: 65
-Regex: 5
+Regex: 6
