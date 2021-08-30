@@ -4,5 +4,5 @@ Number of solutions in each category:
 
 Python: 65
 
-Regex: 11
+Regex: 12
 
