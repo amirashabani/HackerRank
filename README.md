@@ -6,3 +6,5 @@ Python: 65
 
 Regex: 19
 
+**Total: 84**
+
