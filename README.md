@@ -4,7 +4,7 @@ Number of solutions in each category:
 
 Python: 65
 
-Regex: 40
+Regex: 41
 
-**Total: 105**
+**Total: 106**
 
