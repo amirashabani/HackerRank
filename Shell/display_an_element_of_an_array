@@ -1,0 +1,5 @@
+#!/bin/bash
+
+readarray -t array
+echo "${array[@]:3:1}"
+
