@@ -1,0 +1,6 @@
+#!/bin/bash
+
+readarray -t array
+array=("${array[@]}" "${array[@]}" "${array[@]}")
+echo "${array[@]}"
+
