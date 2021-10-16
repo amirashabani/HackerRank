@@ -1,0 +1,13 @@
+#!/bin/bash
+
+sum=0
+read count
+
+for (( i=1; i<=count; i++));
+do
+    read line
+    sum=$((sum+line))
+done
+
+echo "$sum/$count" | bc -l | xargs printf "%.3f\n"
+
