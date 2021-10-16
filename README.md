@@ -6,7 +6,7 @@ Python: 65
 
 Regex: 47
 
-Shell: 47
+Shell: 48
 
-**Total: 159**
+**Total: 160**
 
