@@ -1,0 +1,6 @@
+#!/bin/bash
+
+readarray -t array
+
+echo ${array[@]/#[A-Z]/.}
+
