@@ -1,0 +1,4 @@
+#!/bin/bash
+
+awk -F' ' '{if($2+$3+$4 >= 150) print $1 " : Pass"; else print $1 " : Fail"}'
+
