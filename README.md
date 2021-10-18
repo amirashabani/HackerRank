@@ -4,8 +4,8 @@ Number of solutions in each category:
 
 Python: 65
 
-Shell: 61
+Shell: 62
 
 Regex: 47
 
-**Total: 173**
+**Total: 174**
